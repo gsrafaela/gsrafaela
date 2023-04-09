@@ -10,8 +10,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Rafaela Gomes***
 
-👋 Bem-vindos ao meu GitHub aqui você poderá alguns dos meus projetos pessoais e de faculdade.
-
+  👋 Bem-vindos ao meu GitHub aqui você poderá alguns dos meus projetos.
+  
 </div>
 
 
