@@ -15,8 +15,8 @@
 </div>
 
 
-* 🌟 **Analise & Desenvolvimento de Sistema `FIAP`**
-* 🌟 **Back-end e Mobile**
+* 🌟 **Análise & Desenvolvimento de Sistemas `FIAP`**
+* 🌟 **Back-end & Mobile**
 * 🌟 **Educadora Musical & Trompetista**
 
 <p align="left">
