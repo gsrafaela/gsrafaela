@@ -18,7 +18,7 @@
 
 
 * 🌟 **Análise & Desenvolvimento de Sistemas `FIAP`**
-* 🌟 **Trainee na`Stratesys`**
+* 🌟 **Trainee na `Stratesys`**
 * 🌟 **Back-end**
 * 🌟 **Educadora Musical & Trompetista**
 
